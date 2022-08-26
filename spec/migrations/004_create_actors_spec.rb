@@ -22,6 +22,8 @@ describe CreateActors do
         "last_name" => have_attributes(type: :string)
       })
     end
+
+    
   end
 
 end

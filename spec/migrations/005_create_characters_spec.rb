@@ -23,6 +23,8 @@ describe CreateCharacters do
         "show_id" => have_attributes(type: :integer)
       })
     end
+
+   
   end
 
 end
